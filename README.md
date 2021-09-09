@@ -5,6 +5,11 @@
 ```
 # grep -rl oldtext / | xargs sed -i 's/oldtext/newtext/g'
 ```
+> **Explanation**
+> | Options     | Function                                            |
+> |:-----------:|-----------------------------------------------------|
+> | `-r`        | recursively                                         |
+> | `-l`        | files with matches                                  |
 
 - Estimate file space usage
 
