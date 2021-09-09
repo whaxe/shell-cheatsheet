@@ -11,8 +11,8 @@
 ```
 # du -sh /
 ```
-**Explanation**
-| Options     | Function                                            |
-|:-----------:|-----------------------------------------------------|
-| `-s`        | summarize                                           |
-| `-h`        | human-readable                                      |
+> **Explanation**
+> | Options     | Function                                            |
+> |:-----------:|-----------------------------------------------------|
+> | `-s`        | summarize                                           |
+> | `-h`        | human-readable                                      |
